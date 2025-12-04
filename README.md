@@ -1,4 +1,4 @@
-# Day 3: 
+# Day 3: Log DB with a Schema and JSON encoding of data
 A database that appends json records to a log file and uses an in-memory hash index for fast lookups.
 
 Currently it hardcodes the schema object as a class Person.
